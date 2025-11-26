@@ -14,7 +14,7 @@
 
 <img width="367" alt="屏幕截图 2025-06-02 230716" src="https://github.com/user-attachments/assets/a7773ee5-c6ae-4f68-acfc-a07c1ce4074b" />
 
-2.右键打开文件所在位置，找到如图中的俩个文件，把他复制/移动到 “ C:\Windows\System32 ” 文件夹目录下
+2.右键打开文件所在位置，找到如图中的俩个文件，把他复制/移动到 “ C:\Windows\System32 ” 文件夹目录下（现在已经增加自动配置代码，可以忽略）
 <img width="830" alt="屏幕截图 2025-06-02 230752" src="https://github.com/user-attachments/assets/c05294ff-732a-452f-97fc-c885c214f451" />
 
 
